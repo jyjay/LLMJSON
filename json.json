@@ -1,0 +1,145 @@
+{
+    "nom": "bookingBMoll",
+    "eslogan": "Els pitjors hotels al preu més car.",
+    "correu": "bookingBMoll@cifpfbmolleu",
+    "creacio": 2019,
+    "propietari": { 
+        "nom": "Douglas Crockford",
+        "naixementData": 1955,
+        "naixementLloc": "Minnesota"
+        },
+    "hotel": [{
+        "nom": "Borja",
+        "creacio": 1929,
+        "estrelles": 2,
+        "valoracions": {
+            "Tripadvisor": 2.5,
+            "Booking": 1.8
+            },
+        "habitacions": [{
+            "nom": "hivern", 
+            "llit": {
+                    "quantitat": 1,
+                    "individual": true,
+                    "doble": false
+            },
+            "dutxa": true,
+            "banyera": false,
+            "wc": true,
+            "preu": {
+                "valor": 20,
+                "moneda": "EUR"
+                }
+            },
+            {
+            "nom": "primavera", 
+            "llit": {
+                    "quantitat": 2,
+                    "individual": true,
+                    "doble": true
+            },
+            "dutxa": true,
+            "banyera": true,
+            "wc": true,
+            "preu": {
+                "valor": 30,
+                "moneda": "EUR"
+                }
+            },
+            {
+            "nom": "estiu", 
+            "llit": {
+                    "quantitat": 2,
+                    "individual": true,
+                    "doble": false
+            },
+            "dutxa": true,
+            "banyera": true,
+            "wc": true,
+            "preu": {
+                "valor": 40,
+                "moneda": "EUR"
+                }
+            }],
+            "berenar": {
+                "valor": 17,
+                "moneda": "EUR"
+                },
+            "serveis": {
+                "gimnas": true,
+                "spa": true,
+                "lloguerBici": true,
+                "patinetsElec": true,
+                "wifiGratis": true,
+                "cans": true
+                },
+            "llengua": "català, castellà, anglès, xinès, italiè"
+            }, 
+            {
+            "nom": "Moll",
+            "creacio": 1927,
+            "estrelles": 3,
+            "valoracions": {
+                "Tripadvisor": 1,
+                "Booking": 1.3
+                },
+            "habitacions": [{
+                "nom": "Dipsy", 
+                "llit": {
+                        "quantitat": 1,
+                        "individual": true,
+                        "doble": false
+                },
+                "dutxa": true,
+                "banyera": false,
+                "wc": false,
+                "preu": {
+                    "valor": 40,
+                    "moneda": "EUR"
+                    }
+                },
+                {
+                "nom": "La-la", 
+                "llit": {
+                        "quantitat": 2,
+                        "individual": true,
+                        "doble": false
+                },
+                "dutxa": true,
+                "banyera": true,
+                "wc": true,
+                "preu": {
+                    "valor": 50,
+                    "moneda": "EUR"
+                    }
+                },
+                {
+                "nom": "Po", 
+                "llit": {
+                        "quantitat": 1,
+                        "individual": false,
+                        "doble": true
+                },
+                "dutxa": true,
+                "banyera": false,
+                "wc": true,
+                "preu": {
+                    "valor": 80,
+                    "moneda": "EUR"
+                    }
+                }],
+                "berenar": {
+                    "valor": 27,
+                    "moneda": "EUR"
+                    },
+                "serveis": {
+                    "gimnas": false,
+                    "spa": false,
+                    "lloguerBici": false,
+                    "patinetsElec": false,
+                    "wifiGratis": true,
+                    "cans": false
+                },
+            "llengua": "llatí, esperanto, hindi, persa, rus"
+    }]
+}
