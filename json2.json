@@ -79,10 +79,10 @@
                 "moneda": "LIB",
                 "comissio": 20
             }],
-            "llit": {
-                "quantitatDoble": 1,
-                "quantitatIndividual": 0
-            },
+            "llit": [{
+                "quantitatDoble": 1},
+                {"quantitatIndividual": 0
+            }],
             "terrassa": true,
             "vistas": {
                 "tipus": "Platja"
