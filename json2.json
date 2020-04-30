@@ -154,10 +154,10 @@
                 "moneda": "LIB",
                 "comissio": 20
             }],
-            "llit": {
-                "quantitatDoble": 1,
-                "quantitatIndividual": 1
-            },
+            "llit": [{
+                "quantitatDoble": 1},
+                {"quantitatIndividual": 1
+            }],
             "terrassa": true,
             "vistas": {
                 "tipus": "Camp"
@@ -229,10 +229,10 @@
                 "moneda": "LIB",
                 "comissio": 20
             }],
-            "llit": {
-                "quantitatDoble": 1,
-                "quantitatIndividual": 1
-            },
+            "llit": [{
+                "quantitatDoble": 1},
+                {"quantitatIndividual": 1
+            }],
             "terrassa": true,
             "vistas": {
                 "tipus": "Camp"
@@ -320,10 +320,10 @@
                 "moneda": "USD",
                 "comissio": 20
             }],
-            "llit": {
-                "quantitatDoble": 0,
-                "quantitatIndividual": 1
-            },
+            "llit": [{
+                "quantitatDoble": 0},
+                {"quantitatIndividual": 1
+            }],
             "terrassa": false,
             "vistas": {
                 "tipus": "Ciutat"
@@ -388,10 +388,10 @@
                 "moneda": "LIB",
                 "comissio": 20
             }],
-            "llit": {
-                "quantitatDoble": 0,
-                "quantitatIndividual": 1
-            },
+            "llit": [{
+                "quantitatDoble": 0},
+                {"quantitatIndividual": 1
+            }],
             "terrassa": true,
             "vistas": {
                 "tipus": "Ciutat"
@@ -456,10 +456,10 @@
                 "moneda": "USD",
                 "comissio": 20
             }],
-            "llit": {
-                "quantitatDoble": 1,
-                "quantitatIndividual": 0
-        },
+            "llit": [{
+                "quantitatDoble": 1},
+                {"quantitatIndividual": 0
+            }],
             "terrassa": true,
             "vistas": {
                 "tipus": "Ciutat"
@@ -541,10 +541,10 @@
                 "moneda": "USD",
                 "comissio": 30
             }],
-            "llit": {
-                    "quantitatDoble": 1,
-                    "quantitatIndividual": 0
-            },
+            "llit": [{
+                "quantitatDoble": 1},
+                {"quantitatIndividual": 0
+            }],
             "terrassa": true,
             "vistas": {
                 "tipus": "camp"
@@ -602,10 +602,10 @@
                 "moneda": "USD",
                 "comissio": 30
             }],
-            "llit": {
-                "quantitatDoble": 1,
-                "quantitatIndividual": 0
-            },
+            "llit": [{
+                "quantitatDoble": 1},
+                {"quantitatIndividual": 1
+            }],
             "terrassa": true,
             "vistas": {
                 "tipus": "Camp"
@@ -663,10 +663,10 @@
                 "moneda": "USD",
                 "comissio": 30
             }],
-            "llit": {
-                "quantitatDoble": 0,
-                "quantitatIndividual": 1
-            },
+            "llit": [{
+                "quantitatDoble": 0},
+                {"quantitatIndividual": 1
+            }],
             "terrassa": false,
             "vistas": {
                 "tipus": "Camp"
